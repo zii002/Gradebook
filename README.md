@@ -1,1 +1,1 @@
-# Gradebook
+The Gradebook program stores student names, tracks their homework, quiz, and test scores, and calculates their overall grade. It demonstrates basic Python concepts such as lists, functions, loops, and conditionals.
